@@ -2,6 +2,15 @@
 
 A simple to-do list application built with PyQt5 in Python.
 
+## Table of Contents
+- [Overview](#overview)
+- [Dependencies](#dependencies)
+- [Installation](#installation)
+- [Usage](#usage)
+- [Features](#features)
+- [License](#license)
+- [Preview](#preview)
+
 ## Overview
 
 The To-Do List application allows users to manage their tasks by adding, deleting, editing, sorting, saving, and loading tasks.
@@ -45,3 +54,5 @@ The application window will open, and you can start managing your tasks using th
 
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
+## Preview
+![Preview](preview.png)
